@@ -1,0 +1,2 @@
+Tema seminarskog rada iz predmeta je poređenje Rast programskog jezika i programskog jezika po izboru na primeru implementacije asinhronog koda.
+Poređenje uraditi na sledećem slučaju korišćenja: Zamisliti da postoji jedan API endpoint koji može da se kontaktira iz programa. Cilj je da se to učini što brže, tako da je potrebno omogućiti pozive u paraleli, ali sistem može da podnese samo 5 konekcija u paraleli. Takođe, bilo koji poziv može da doživi neuspeh sa verovatnoćom 20%, i ako se to desi, mora se ponovo poslati zahtev.
